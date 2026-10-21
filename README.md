@@ -3,16 +3,16 @@
 Pertemuan 1 week 1
 
 1. Hasil output 1
-![Preview](assets/1.png)
+![Preview](asset/1.png)
 
 2. Hasil output 2
-![Preview](assets/2.png)
+![Preview](asset/2.png)
 
 3. Hasil output 3
-![Preview](assets/3.png)
+![Preview](asset/3.png)
 
 4. Hasil output 4
-![Preview](assets/4.png)
+![Preview](asset/4.png)
 
 ## Getting Started
 
